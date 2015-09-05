@@ -1,0 +1,1 @@
+console.log("Hello Grunt 4") //semi-colon misssing
