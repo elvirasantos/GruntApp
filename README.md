@@ -1,5 +1,5 @@
 # GruntApp
-This is a Grunt project template.
+This is a Grunt project boilerplate.
 Default tasks:
 + clean
 + coffee
